@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.cave {
+  background-color: #f9fbe7;  
+  margin: 0;
+  height: 90vh;
+}
+.dig {
+    margin-top: 50px;
+}
+#imagier {
+    width: 100px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+button.btn-3.btn-sm.bg-dark.rounded-pill.text-light {
+    margin-right: 175px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: none;
+    border: none;
+    text-align: center;
+
+}
+
+button.btn-2.btn-sm.rounded-pill {
+    margin-right: 10px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: none;
+    border: none;
+    text-align: center;
+}
+.head.display-4 {
+    font-weight: 700;
+}
+.car {
+    width: 65%;
+}
+.mr-5, .mx-5 {
+    margin-right: 21rem!important;
+}
+
+input[type="text"] {
+    width: 35%;
+    position: relative;
+    padding: 12px 0px;
+    padding-left: 35px;
+    border: none;
+    outline: none;
+}
+.container-fluid.cow {
+    margin-top: 150px;
+}
+button.btn-lg.rounded-pill.text-light.get {
+    font-size: 13px;
+    padding: 17px 45px;
+    background-color: #9c1c26;
+}
+button.btn-lg {
+    margin-top: 0px;
+    position: absolute;
+    padding-bottom: 10px;
+    border: none;
+    outline: none;
+    background-color: #9c1c26;
+}
+i.fas.fa-map-marker-alt {
+    position: absolute;
+    z-index: 1;
+    margin-top: 18px;
+}
+
+img.map {
+    width: 17px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 14px;
+    margin-left: 7px;
+}
+i.fas.fa-greater-than {
+    font-size: 11px;
+    color: white;
+}
+p.milk {
+    margin-bottom: 0rem!important;
+}
+p.mr-5.milk.mill {
+    margin-left: 0px;
+    margin-top: 15px;
+}
